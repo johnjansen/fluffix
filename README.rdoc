@@ -1,6 +1,7 @@
 = sluffix
 
-Description goes here.
+Removes business entity type suffixes from strings.
+source: https://en.wikipedia.org/wiki/Types_of_business_entity
 
 == Contributing to sluffix
  

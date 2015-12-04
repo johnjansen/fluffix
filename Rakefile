@@ -18,7 +18,7 @@ Jeweler::Tasks.new do |gem|
   gem.homepage = "http://github.com/johnjansen/sluffix"
   gem.license = "MIT"
   gem.summary = %Q{remove suffixes from company names}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.description = %Q{Removes business entity type suffixes from strings.}
   gem.email = "john.jansen@me.com"
   gem.authors = ["John Jansen"]
   # dependencies defined in Gemfile
