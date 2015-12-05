@@ -1,6 +1,6 @@
 # https://www.harborcompliance.com/information/company-suffixes
 ---
-- - - (a )?(pro\.?(fessional)?|chartered|service|svc\.?|(non|not for )profit)? ?corp(oration)?
+- - - (a )?(pro\.?(fessional)?|chartered|service|svc\.?|(non ?|not for )profit)? ?corp(oration)?
     - p\.?(a|c)
     - s\.?c
     - inc(orporated)?

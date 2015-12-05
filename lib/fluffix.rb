@@ -3,7 +3,7 @@ require "awesome_print"
 
 module Fluffix
   
-  RULES = YAML.load(File.open("entity_types_edited.yml"))[0].flatten.uniq.map(&:downcase).sort{ |a, b| b.size <=> a.size }.map{ |r| Regexp::new(" #{r}\.?$", Regexp::IGNORECASE) }
+  RULES = YAML.load(File.open("entity_types_edited.yml"))[0].flatten.uniq.sort{ |a, b| b.size <=> a.size }.map{ |r| Regexp::new(" #{r}\.?$", Regexp::IGNORECASE) }
   
   class US
     def self.cleanse(text)
