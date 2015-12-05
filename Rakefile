@@ -14,11 +14,11 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
-  gem.name = "sluffix"
-  gem.homepage = "http://github.com/johnjansen/sluffix"
+  gem.name = "fluffix"
+  gem.homepage = "http://github.com/johnjansen/fluffix"
   gem.license = "MIT"
-  gem.summary = %Q{remove suffixes from company names}
-  gem.description = %Q{Removes business entity type suffixes from strings.}
+  gem.summary = %Q{remove or adds suffixes (from/to) company names}
+  gem.description = %Q{Removes or adds business entity type / tld suffixes (to/from) company names.}
   gem.email = "john.jansen@me.com"
   gem.authors = ["John Jansen"]
   # dependencies defined in Gemfile
@@ -44,3 +44,5 @@ task :default => :spec
 
 require 'yard'
 YARD::Rake::YardocTask.new
+
+require_relative 'lib/tasks/get'

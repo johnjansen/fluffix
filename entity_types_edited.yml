@@ -1,0 +1,931 @@
+# https://www.harborcompliance.com/information/company-suffixes
+---
+- - - (a )?(pro\.?(fessional)?|chartered|service|svc\.?|(non|not for )profit)? ?corp(oration)?
+    - p\.?(a|c)
+    - s\.?c
+    - inc(orporated)?
+    - bank(ing|ers)?
+    - ((and|&|\+) )?co(mpany)?
+    - (limited|ltd)( liability (co(mpany)?)?)?
+    - deposit
+    - credit union
+    - trust( co(mpany)?)?
+    - societa per azioni
+    - s\.?p\.?a
+    - (pro\.?(fessional)? )?assoc(iation)?
+    - club
+    - foundation
+    - fund
+    - institute
+    - society
+    - union
+    - syndicate
+    - church
+    - college
+    - university
+    - chartered
+    - p?\.?l?\.?lc
+    - (l|1)\.?3\.?c
+    - league
+    - committee
+    - co\-?op(erative)?
+# https://www.harborcompliance.com/information/company-suffixes ENDS
+
+
+- - - sh.a.
+    - shoqeri aksionere
+- - - sh.p.k.
+    - shoqeri me pergjegjesi te kufizuar
+- - - shoqeri komandite
+- - - shoqeri kolektive
+- - - s.a.
+    - sociedad anónima
+- - - s.r.l.
+    - sociedad de responsabilidad limitada
+  - - ltd.
+- - - s.c.s.
+    - sociedad en comandita simple
+- - - soc.col.
+    - sociedad colectiva
+- - - s.e.
+    - sociedad del estado
+- - - ltd.
+    - limited
+- - - pty. ltd.
+    - proprietary limited company
+- - - gen
+    - genossenschaft
+    - erwerbsgenossenschaft
+    - wirtschaftsgenossenschaft
+- - - privatstiftung
+- - - verein
+- - - e.u.
+    - eingetragenes einzelunternehmen
+- - - kapitalgesellschaften
+  - - ag
+    - aktiengesellschaft
+  - - gmbh
+    - gesellschaft mit beschränkter haftung
+- - - ag
+    - aktiengesellschaft
+- - - gmbh
+    - gesellschaft mit beschränkter haftung
+- - - personengesellschaften
+  - - unincorporated
+  - - stg
+    - stille gesellschaft
+  - - gesbr
+    - gesellschaft des bürgerlichen rechts
+  - - incorporated
+  - - og
+    - offene gesellschaft
+  - - kg
+    - kommanditgesellschaft
+- - - unincorporated
+  - - stg
+    - stille gesellschaft
+  - - gesbr
+    - gesellschaft des bürgerlichen rechts
+- - - stg
+    - stille gesellschaft
+- - - gesbr
+    - gesellschaft des bürgerlichen rechts
+- - - incorporated
+  - - og
+    - offene gesellschaft
+  - - kg
+    - kommanditgesellschaft
+- - - og
+    - offene gesellschaft
+- - - kg
+    - kommanditgesellschaft
+- - - "ААТ"
+    - "Адкрытае акцыянернае таварыства adkritaye aktsiyanernaye tavaristva"
+- - - "ЗАТ"
+    - "Закрытае ацыянернае таварыства zakritaye aktsiyanernaye tavaristva"
+- - - "ТАА"
+    - "Таварыства з абмежаванай адказнасцю tavaristva z abmezhavanaj adkaznastsiu"
+- - - foundations
+  - - private stichting
+    - fondation privée
+  - - stichting van openbaar nut
+    - fondation d'utilité publique
+- - - private stichting
+    - fondation privée
+- - - stichting van openbaar nut
+    - fondation d'utilité publique
+- - - coentreprises
+    - joint ventures
+  - - esv
+    - economisch samenwerkingsverband
+    - gie
+    - groupement d'intérêt économique
+  - - stille handelsvennootschap
+    - société interne
+  - - tijdelijke handelsvennootschap
+    - société momentanée
+- - - esv
+    - economisch samenwerkingsverband
+    - gie
+    - groupement d'intérêt économique
+- - - stille handelsvennootschap
+    - société interne
+- - - tijdelijke handelsvennootschap
+    - société momentanée
+- - - vzw
+    - vereniging zonder winstoogmerk
+    - asbl
+    - association sans but lucratif
+    - vog
+    - vereinigung ohne gewinnerzielungsabsicht
+- - - vereniging in deelneming
+    - sep
+    - société en participation
+- - - feitelijke vereniging
+    - société de fait
+- - - eenmanszaak
+    - entreprise individuelle
+- - - vof
+    - vennootschap onder firma
+    - snc
+    - société en nom collectif
+- - - comm.v
+    - gewone commanditaire vennootschap
+    - scs
+    - société en commandite simple
+- - - comm.va
+    - commanditaire vennootschap op aandelen
+    - sca
+    - société en commandite par actions
+- - - bvba
+    - besloten vennootschap met beperkte aansprakelijkheid
+    - sprl
+    - société privée à responsabilité limitée
+- - - nv
+    - naamloze vennootschap
+    - sa
+    - societé anonyme
+- - - co-operative companies
+  - - cvba
+    - coöperatieve vennootschap met beperkte aansprakelijkheid
+    - scrl
+    - société coopérative à responsabilité limitée
+  - - cvoa
+    - coöperatieve vennootschap met onbeperkte aansprakelijkheid
+    - scri
+    - société coopérative à responsabilité illimitée
+- - - cvba
+    - coöperatieve vennootschap met beperkte aansprakelijkheid
+    - scrl
+    - société coopérative à responsabilité limitée
+- - - cvoa
+    - coöperatieve vennootschap met onbeperkte aansprakelijkheid
+    - scri
+    - société coopérative à responsabilité illimitée
+- - - d.d.
+    - dioničko društvo
+- - - a.d.
+    - akcionarsko društvo
+- - - d.n.o.
+    - društvo s neograničenom solidarnom odgovornošću
+- - - d.o.o.
+    - društvo s ograničenom odgovornošću
+- - - k.d.
+    - komanditno društvo
+- - - s.p.
+    - samostalni preduzetnik
+- - - sociedade limitada
+    - ltda.
+- - - s.a.
+    - sociedade anônima
+- - - sociedade em comandita simples
+- - - sociedade em nome coletivo
+- - - sociedade em conta de participação
+- - - sociedade em comum
+- - - empresa individual
+    - firma individual
+- - - micro empreendedor individual
+- - - empresa pública
+- - - sociedade de economia mista
+- - - associação em sentido estrito
+    - sem finalidade lucrativa
+- - - organização não governamental
+- - - organização da sociedade civil de interesse público
+- - - organização social
+- - - serviços sociais autônomos
+- - - fundação privada
+- - - fundação pública
+- - - ood
+    - ООД
+    - drujestvo s ogranichena otgovornost
+    - дружество с ограничена отговорност
+- - - kd
+    - КД
+    - komanditno druzhestvo
+    - командитно дружество
+- - - sd
+    - СД
+    - subiratelno druzhestvo
+    - събирателно дружество
+- - - pte ltd.
+    - private limited company
+- - - plc ltd.
+    - public limited company
+- - - state company
+- - - state joint venture company
+- - - s.a.
+    - sociedad anónima
+- - - ltda.
+    - sociedad de responsabilidad limitada
+- - - "有限公司"
+- - - "股份有限公司"
+- - - s.a.
+    - sociedad anónima
+- - - ltda.
+    - sociedad de responsabilidad limitada
+- - - d.d.
+    - dioničko društvo
+- - - d.o.o.
+    - društvo s ograničenom odgovornošću
+- - - j.t.d.
+    - javno trgovačko društvo
+- - - k.d.
+    - komanditno društvo
+- - - obrt
+- - - a.s.
+    - akc. spol.
+    - akciová společnost
+- - - s.r.o.
+    - spol. s r.o.
+    - společnost s ručením omezeným
+- - - v.o.s.
+    - veřejná obchodní společnost
+- - - k.s.
+    - komanditní společnost
+- - - o.p.s.
+    - obecně prospěšná společnost
+- - - forening
+- - - i/s
+    - interessentskab
+- - - s.a.
+    - sociedad anónima
+- - - s.a.s
+    - sociedad anónima simplificada
+- - - srl.
+    - sociedad de resposabilidad limitada
+- - - eirl.
+    - empresa individual de responsabilidad limitada
+- - - s.a.
+    - sociedad anónima
+- - - cía. ltda.
+    - compañía limitada
+- - - fie
+    - füüsilisest isikust ettevõtja
+- - - partnerships
+  - - uÜ
+    - usaldusühing
+  - - tÜ
+    - täisühing
+- - - uÜ
+    - usaldusühing
+- - - tÜ
+    - täisühing
+- - - companies
+  - - oÜ
+    - osaühing
+  - - as
+    - aktsiaselts
+- - - oÜ
+    - osaühing
+- - - as
+    - aktsiaselts
+- - - tulundusühistu
+- - - ay
+    - avoin yhtiö
+    - öppet bolag
+- - - ky
+    - kommandiittiyhtiö
+    - kommanditbolag
+    - kb
+- - - oy
+    - osakeyhtiö
+    - aktiebolag
+    - ab
+- - - oyj
+    - julkinen osakeyhtiö
+    - publikt aktiebolag
+    - abp
+- - - osk
+    - osuuskunta
+    - andelslag
+    - anl.
+- - - freelancers
+  - - individual independent contractors
+  - - auto-entrepreneur
+  - - profession libérale
+  - - ei
+    - entreprise individuelle
+    - entreprise en nom personnel
+- - - auto-entrepreneur
+- - - profession libérale
+- - - société d'investissement à capital fixe
+  - - sicav
+    - société d'investissement à capital variable
+- - - société d'investissement à capital fixe
+- - - sicav
+    - société d'investissement à capital variable
+- - - association
+  - - association non-déclarée
+  - - association déclarée
+- - - association non-déclarée
+- - - association déclarée
+- - - partnerships
+    - société de personnes
+  - - sep
+    - société en participation
+  - - snc
+    - société en nom collectif
+  - - scs
+    - société en commandite simple
+  - - sca
+    - société en commandite par actions
+- - - sep
+    - société en participation
+- - - snc
+    - société en nom collectif
+- - - scs
+    - société en commandite simple
+- - - sca
+    - société en commandite par actions
+- - - companies
+    - société de capitaux
+  - - sarl
+    - sàrl
+    - société à responsabilité limitée
+  - - eurl
+    - entreprise unipersonnelle à responsabilité limitée
+  - - sa
+    - société anonyme
+  - - scop
+    - société coopérative de production
+  - - sem
+    - société d'économie mixte
+  - - sas
+    - société par actions simplifiée
+- - - sarl
+    - sàrl
+    - société à responsabilité limitée
+  - - eurl
+    - entreprise unipersonnelle à responsabilité limitée
+- - - eurl
+    - entreprise unipersonnelle à responsabilité limitée
+- - - sa
+    - société anonyme
+  - - scop
+    - société coopérative de production
+  - - sem
+    - société d'économie mixte
+  - - sas
+    - société par actions simplifiée
+- - - sa
+    - société anonyme
+  - - scop
+    - société coopérative de production
+  - - sem
+    - société d'économie mixte
+- - - scop
+    - société coopérative de production
+- - - sem
+    - société d'économie mixte
+- - - sas
+    - société par actions simplifiée
+- - - e.g.
+    - eingetragene genossenschaft
+- - - e.v.
+    - eingetragener verein
+- - - innengesellschaft
+  - - ohg
+    - offene handelsgesellschaft
+  - - kg
+    - kommanditgesellschaft
+  - - partg
+    - partnerschaftsgesellschaft
+- - - innengesellschaft
+- - - ohg
+    - offene handelsgesellschaft
+  - - kg
+    - kommanditgesellschaft
+- - - ohg
+    - offene handelsgesellschaft
+- - - kg
+    - kommanditgesellschaft
+- - - partg
+    - partnerschaftsgesellschaft
+- - - kgaa
+    - kommanditgesellschaft auf aktien
+  - - gmbh
+    - ɡeɪɛmbeɪhɑ
+    - gesellschaft mit beschränkter haftung
+  - - ag
+    - aktiengesellschaft
+- - - kgaa
+    - kommanditgesellschaft auf aktien
+  - - kg
+- - - gmbh
+    - ɡeɪɛmbeɪhɑ
+    - gesellschaft mit beschränkter haftung
+- - - ag
+    - aktiengesellschaft
+- - - a.e.
+    - anónimi etería
+    - Ανώνυμη Εταιρεία
+    - Α.Ε.
+- - - e.p.e.
+    - etería periorisménis euthínis
+    - Εταιρεία Περιορισμένης Ευθύνης
+    - Ε.Π.Ε.
+- - - pvt. ltd.
+    - private limited company
+- - - ltd.
+    - public limited company
+- - - pt
+    - perseroan terbatas
+- - - pt tbk
+    - perseroan terbatas terbuka
+    - perseroan terbuka
+- - - "شرکت سهامی عام"
+    - sherkat sahami am
+- - - "شرکت سهامی خاص"
+    - sherkat sahami khas
+- - - "شرکت با مسئولیت محدود"
+    - sherkat ba masouliyat mahdoud
+- - - "شرکت مختلط غیر سهامی"
+    - sherkat mokhtalet gheyr sahami
+- - - "شرکت تضامنی"
+    - sherkat tazamoni
+- - - forme individuali
+- - - società di persone
+    - partnerships
+  - - s.s.
+    - società semplice
+  - - s.n.c.
+    - società in nome collettivo
+  - - s.a.s
+    - società in accomandita semplice
+- - - s.s.
+    - società semplice
+- - - s.n.c.
+    - società in nome collettivo
+- - - s.a.s
+    - società in accomandita semplice
+- - - società di capitali
+    - companies
+  - - s.a.p.a
+    - società in accomandita per azioni
+  - - s.r.l.
+    - società a responsabilità limitata
+- - - s.a.p.a
+    - società in accomandita per azioni
+- - - s.r.l.
+    - società a responsabilità limitata
+- - - 주식회사 
+    - 株式會社
+    - jusik hoesa
+- - - 유한회사
+    - 有限會社
+    - yuhan hoesa
+- - - sia
+    - sabiedrība ar ierobežotu atbildību
+- - - as
+    - akciju sabiedrība
+- - - ik
+    - individuālais komersants
+- - - ks
+    - komandītsabiedrība
+- - - bo
+    - bezpeļņas organizācija
+- - - uab
+    - uždaroji akcinė bendrovė
+- - - ab
+    - akcinė bendrovė
+- - - všĮ
+    - viešoji įstaiga
+- - - iĮ
+    - individuali įmonė
+- - - tŪb
+    - tikroji ūkinė bendrija
+- - - kŪb
+    - komanditinė ūkinė bendrija
+- - - mb
+    - mažoji bendrija 
+- - - s.a.
+    - société anonyme
+- - - s.a.r.l.
+    - société à responsabilité limitée
+- - - société en commandite simple
+    - secs
+- - - a.d.
+    - А.Д.
+    - akcionersko društvo
+    - Акционерско друштво
+- - - d.o.o.
+    - Д.О.О.
+    - društvo so ograničena odgovornost
+    - Друштво со ограничена одговорност
+- - - k.d.
+    - К.Д.
+    - komanditno društvo 
+    - Командитно друштво
+- - - k.d.a.
+    - К.Д.А.
+    - komanditno društvo so akcie 
+    - Командитно друштво со акции
+- - - j.t.d.
+    - Ј.Т.Д.
+    - javno trgovsko društvo 
+    - Јавно трговско друштво
+- - - bhd.
+    - berhad
+- - - sdn. bhd.
+    - sendirian berhad
+- - - s.a.
+    - sociedad anónima
+- - - s. de r.l.
+    - sociedad de responsabilidad limitada
+- - - y compañía
+    - y sucesores
+    - sociedad en nombre colectivo
+- - - s. en c.
+    - sociedad en comandita simple
+- - - s. en c. por a.
+    - sociedad en comandita por acciones
+- - - "ХК"
+    - khuvitsaat kompani
+    - Хувьцаат Компани
+- - - "ХХК"
+    - khyazgaarlagdmal khariutslagatai kompani
+    - Хязгаарлагдмал Хариуцлагатай Компани
+- - - "ТББ"
+    - teriin vus vaigruullaga
+    - Төрийн Бус Байгууллага
+- - - stichting
+- - - mutual societies
+    - wettelijke aansprakelijkheid
+    - limited
+    - b.a. 
+    - beperkte aansprakelijkheid 
+    - beperkte exempt
+    - u.a. 
+    - uitsluiting van aansprakelijkheid
+  - - coöperatie
+  - - onderlinge waarborgmaatschappij
+- - - coöperatie
+- - - onderlinge waarborgmaatschappij
+- - - mts
+    - maatschap
+- - - eenmanszaak
+- - - incorporated entities
+  - - vof
+    - vennootschap onder firma
+  - - cv
+    - commanditaire vennootschap
+  - - bv
+    - besloten vennootschap
+  - - nv
+    - naamloze vennootschap
+- - - vof
+    - vennootschap onder firma
+- - - cv
+    - commanditaire vennootschap
+- - - bv
+    - besloten vennootschap
+- - - nv
+    - naamloze vennootschap
+- - - ltd
+    - limited
+- - - asa
+    - allmennaksjeselskap
+- - - as
+    - aksjeselskap
+- - - ks
+    - kommandittselskap
+- - - ltd.
+    - limited
+- - - pvt. ltd.
+    - private limited company
+- - - s.a.
+    - sociedad anónima
+- - - s.a.
+    - spółka akcyjna
+- - - sp.j.
+    - spółka jawna
+- - - sp.k.
+    - spółka komandytowa
+- - - sp.p.
+    - spółka partnerska
+- - - sp. z o.o.
+    - spółka z ograniczoną odpowiedzialnością
+- - - spółdzielnia
+- - - s.a.
+    - sociedade anónima
+  - - plc
+  - - s.a.
+    - sociedade aberta
+  - - s.f.
+    - sociedade fechada
+- - - s.a.
+    - sociedade aberta
+- - - s.f.
+    - sociedade fechada
+- - - lda.
+    - limitada
+  - - ltd.
+    - uk
+- - - s.a.
+    - societate pe acţiuni
+- - - s.c.s.
+    - societate în comandită simplă
+- - - s.n.c.
+    - societate în nume colectiv
+- - - s.r.l.
+    - societate cu răspundere limitată
+- - - pfa
+    - persoana fizica autorizata
+- - - o.n.g.
+    - organizație non-guvernamentală
+- - - a.d.
+    - a.д.
+    - akcionarsko društvo 
+    - aкционарско друштво
+- - - d.o.o.
+    - д.о.о.
+    - društvo sa ograničenom odgovornošću 
+    - друштво сa ограниченом одговорношћу
+- - - k.d.
+    - к.д.
+    - komanditno društvo 
+    - командитно друштво
+- - - o.d.
+    - о.д.
+    - ortačko društvo
+    - ортачко друштво
+- - - preduzetnik 
+- - - ltd
+    - bhd
+    - pte ltd
+    - sdn bhd
+    - private limited company
+    - sendiran berhad
+- - - ltd
+    - bhd
+    - public limited company
+    - berhad
+- - - a.s.
+    - akciová spoločnosť
+- - - s.r.o.
+    - spol. s r.o.
+    - spoločnosť s ručením obmedzeným
+- - - k.s.
+    - komanditná spoločnosť
+- - - v.o.s.
+    - verejná obchodná spoločnosť
+- - - družstvo
+- - - d.d.
+    - delniška družba
+- - - d.o.o.
+    - družba z omejeno odgovornostjo
+- - - d.n.o.
+    - družba z neomejeno odgovornostjo
+- - - k.d.
+    - komanditna družba
+- - - s.p.
+    - samostojni podjetnik
+- - - vereniging sonder winsoogmerk
+    - section 21 company
+    - artikel 21-maatskappy
+  - - private company
+    - privaat maatskappy
+  - - section 53
+    - b company
+    - unlimited liability company
+  - - public company
+    - publieke maatskappy
+- - - vereniging sonder winsoogmerk
+    - section 21 company
+    - artikel 21-maatskappy
+- - - vereniging sonder winsoogmerk
+    - section 21 company
+    - artikel 21-maatskappy
+- - - private company
+    - privaat maatskappy
+  - - section 53
+    - b company
+    - unlimited liability company
+  - - public company
+    - publieke maatskappy
+- - - private company
+    - privaat maatskappy
+  - - section 53
+    - b company
+    - unlimited liability company
+- - - section 53
+    - b company
+    - unlimited liability company
+- - - public company
+    - publieke maatskappy
+- - - s.a.
+    - sociedad anónima
+- - - s.l.
+    - sociedad limitada
+- - - ab
+    - aktiebolag
+- - - ab
+    - publ
+    - publikt aktiebolag
+- - - hb
+    - handelsbolag
+- - - kb
+    - kommanditbolag
+- - - stiftung
+    - fondation
+    - fondazione
+- - - investmentgesellschaft mit festem kapital
+    - sicaf
+    - société d'investissement à capital fixe
+    - sicaf
+    - società di investimento a capitale fisso
+  - - investmentgesellschaft mit variablem kapital
+    - sicav
+    - société d'investissement à capital variable
+    - sicav
+    - società di investimento a capitale variabile
+- - - investmentgesellschaft mit festem kapital
+    - sicaf
+    - société d'investissement à capital fixe
+    - sicaf
+    - società di investimento a capitale fisso
+- - - investmentgesellschaft mit variablem kapital
+    - sicav
+    - société d'investissement à capital variable
+    - sicav
+    - società di investimento a capitale variabile
+- - - verein
+    - association
+    - associazione
+- - - wig
+    - wirtschaftliche interessengemeinschaft
+    - gie
+    - groupement d'intérêt économique
+    - gruppo di interesse economico
+- - - einzelunternehmen
+    - ri
+    - raison individuelle
+    - ditta indivduale
+- - - eg
+    - einfache gesellschaft
+    - société simple
+    - società semplice
+  - - kolg
+    - kollektivgesellschaft
+    - snc
+    - société en nom collectif
+    - società in nome collettivo
+  - - kg
+    - kommanditgesellschaft
+    - sc
+    - société en commandite
+    - società in accomandita
+  - - komag
+    - kommanditaktiengesellschaft
+    - sca
+    - société en commandite par actions
+    - società in accomandita per azioni
+  - - gmbh
+    - gesellschaft mit beschränkter haftung
+    - sàrl
+    - société à responsabilité limitée
+    - sagl
+    - società a garanzia limitata
+  - - ag
+    - aktiengesellschaft
+    - sa
+    - société anonyme
+    - sa
+    - società anonima
+- - - eg
+    - einfache gesellschaft
+    - société simple
+    - società semplice
+  - - kolg
+    - kollektivgesellschaft
+    - snc
+    - société en nom collectif
+    - società in nome collettivo
+  - - kg
+    - kommanditgesellschaft
+    - sc
+    - société en commandite
+    - società in accomandita
+- - - eg
+    - einfache gesellschaft
+    - société simple
+    - società semplice
+- - - kolg
+    - kollektivgesellschaft
+    - snc
+    - société en nom collectif
+    - società in nome collettivo
+- - - kg
+    - kommanditgesellschaft
+    - sc
+    - société en commandite
+    - società in accomandita
+- - - komag
+    - kommanditaktiengesellschaft
+    - sca
+    - société en commandite par actions
+    - società in accomandita per azioni
+  - - gmbh
+    - gesellschaft mit beschränkter haftung
+    - sàrl
+    - société à responsabilité limitée
+    - sagl
+    - società a garanzia limitata
+  - - ag
+    - aktiengesellschaft
+    - sa
+    - société anonyme
+    - sa
+    - società anonima
+- - - komag
+    - kommanditaktiengesellschaft
+    - sca
+    - société en commandite par actions
+    - società in accomandita per azioni
+- - - gmbh
+    - gesellschaft mit beschränkter haftung
+    - sàrl
+    - société à responsabilité limitée
+    - sagl
+    - società a garanzia limitata
+- - - ag
+    - aktiengesellschaft
+    - sa
+    - société anonyme
+    - sa
+    - società anonima
+- - - genossenschaft
+    - scoop
+    - société coopérative
+    - società cooperativa
+- - - zweigniederlassung
+    - succursale
+    - succursale
+- - - บริษัทมหาชนจำกัด
+    - บริษัท [corporation name] จำกัด
+    - มหาชน
+- - - บริษัทเอกชนจำกัด
+    - บริษัท [corporation name] จำกัด
+- - - "ห้างหุ้นส่วนจำกัด"
+    - ห้างหุ้นส่วน [corporation name] จำกัด
+- - - ห้างหุ้นส่วนสามัญนิติบุคคล
+    - ห้างหุ้นส่วน [corporation name]
+- - - adi Şirket 
+- - - koll. Şti.
+    - kolektif şirket
+- - - a.Ş.
+    - a.o.
+    - anonim Şirket
+    - anonim ortaklık
+    - irtibat bürosu
+- - - Şahıs firması
+- - - Şb.
+    - Şube
+- - - dat
+    - ДАТ
+    - Державне акціонерне товариство derzhavne aktsionerne tovaristvo
+- - - kt
+    - Командитне товариство comanditne tovaristvo
+- - - pt
+    - Пt
+    - "Повне товариство povne tovaristvo"
+- - - tov
+    - tob
+    - "Товариство з обмеженою відповідальністю tovaristvo z obmezhenoyu vidpovividalnistyu"
+- - - pp
+    - ПП
+    - "Приватне підприємство privatne pidpriemstvo"
+- - - vat
+    - ВАТ
+    - Вiдкрите акцiонерне товариство vidkrite aktsionerne tovaristvo
+    - pat
+    - ПАТ
+    - "Публічне акціонерне товариство publisne aktsionerne tovaristvo"
+- - - zat
+    - ЗАТ
+    - "Закрите акцiонерне товариство zakrite aktsionerne tovaristvoor prat
+    - ПрАТ"
+    - "Приватне акціонерне товариство pritvatne aktsionerne tovaristvo"
+- - - aТ
+    - aТ
+    - "Акціонерне товариство aktsionerne tovaristvo"
