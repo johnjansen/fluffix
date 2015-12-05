@@ -3,6 +3,8 @@
 Removes business entity type suffixes from strings.
 source: https://en.wikipedia.org/wiki/Types_of_business_entity
 
+{<img src="https://codeship.com/projects/904f97a0-7d55-0133-1844-629a1689a2f6/status?branch=master" alt="Status?branch=master" />}[https://codeship.com/projects/120166]
+
 == Contributing to Fluffix
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
