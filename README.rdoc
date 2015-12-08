@@ -6,6 +6,20 @@ source: https://en.wikipedia.org/wiki/Types_of_business_entity
 {<img src="https://codeship.com/projects/904f97a0-7d55-0133-1844-629a1689a2f6/status?branch=master" alt="Status?branch=master" />}[https://codeship.com/projects/120166]
 {<img src="https://badge.fury.io/rb/fluffix.svg" alt="Gem Version" />}[https://badge.fury.io/rb/fluffix]
 
+== Usage (in 5 seconds or less)
+
+##
+#Fluffix::US.cleanse("Prototype Corp.") => "Prototype"
+#Fluffix::US.cleanse("Prototype Corporation") => "Prototype"
+#Fluffix::US.cleanse("Prototype Inc") => "Prototype"
+#Fluffix::US.cleanse("Prototype Inc.") => "Prototype"
+#Fluffix::US.cleanse("Prototype Incorporated") => "Prototype"
+#...
+#Fluffix::US.cleanse("Prototype professional association") => "Prototype"
+#...
+#Fluffix::US.cleanse("Prototype l3c") => "Prototype"
+#...
+
 == Contributing to Fluffix
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
