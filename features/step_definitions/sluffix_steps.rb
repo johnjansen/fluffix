@@ -1,13 +1,21 @@
 require "fluffix"
+require "awesome_print"
 
-Given(/^i have the name (.*)$/) do |input|
-  @input = input
+# generics
+Given(/^I have these names$/i) do |names|
+  @names = names.raw
 end
 
-When(/^I cleanse it$/) do
-  @cleaned = Fluffix::US.cleanse(@input)
+Given(/^I have these suffixes$/i) do |suffixes|
+  @suffixes =  suffixes.raw
 end
 
-Then(/^i should have (.*)$/) do |expected|
-  @cleaned.should eq(expected)
+Given(/^I combine them$/i) do
+  @examples = @names.product(@suffixes).map{ |i| [i.join(" "), i.first.first] }
+end
+
+Then(/^The cleansed version should match the name$/i) do
+  @examples.each do |example|
+    Fluffix::US.cleanse(example.first).should eq(example.last)
+  end
 end
