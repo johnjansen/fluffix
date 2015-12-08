@@ -3,7 +3,36 @@ require "awesome_print"
 
 module Fluffix
   
-  RULES = YAML.load(File.open("entity_types_edited.yml"))[0].flatten.uniq.sort{ |a, b| b.size <=> a.size }.map{ |r| Regexp::new(" #{r}\.?$", Regexp::IGNORECASE) }
+  RULES = [
+    "(a )?(pro\.?(fessional)?|chartered|service|svc\.?|(non ?|not for )profit)? ?corp(oration)?",
+    "p\.?(a|c)",
+    "s\.?c",
+    "inc(orporated)?",
+    "bank(ing|ers)?",
+    "((and|&|\\+|trust) )?co(mpany)?",
+    "(limited|ltd)( liability (co(mpany)?)?)?",
+    "deposit",
+    "credit union",
+    "societa per azioni",
+    "s\.?p\.?a",
+    "(pro\.?(fessional)? )?assoc(iation)?",
+    "club",
+    "foundation",
+    "fund",
+    "institute",
+    "society",
+    "union",
+    "syndicate",
+    "church",
+    "college",
+    "university",
+    "chartered",
+    "(p|l)?\.?(l\.?){0,2}c",
+    "(l|1)\.?3\.?c",
+    "league",
+    "committee",
+    "co\-?op(erative)?"
+  ].sort{ |a, b| b.size <=> a.size }.map{ |r| Regexp::new(" #{r}\.?$", Regexp::IGNORECASE) }
   
   class US
     def self.cleanse(text)
