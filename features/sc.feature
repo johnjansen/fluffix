@@ -20,6 +20,6 @@ Feature: cleanse a company name of suffix
       | prototype interactive laboratories (dead in '99) s.c. | prototype interactive laboratories (dead in '99) |
       | prototype interactive laboratories (dead in '99) s.c | prototype interactive laboratories (dead in '99) |
 
-      | Prototype interactive laboratories (dead in '99) SC | prototype interactive laboratories (dead in '99) |
-      | Prototype interactive laboratories (dead in '99) S.C. | prototype interactive laboratories (dead in '99) |
-      | Prototype interactive laboratories (dead in '99) S.C | prototype interactive laboratories (dead in '99) |      
+      | Prototype interactive laboratories (dead in '99) SC | Prototype interactive laboratories (dead in '99) |
+      | Prototype interactive laboratories (dead in '99) S.C. | Prototype interactive laboratories (dead in '99) |
+      | Prototype interactive laboratories (dead in '99) S.C | Prototype interactive laboratories (dead in '99) |      
