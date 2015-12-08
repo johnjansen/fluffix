@@ -4,6 +4,7 @@ Removes business entity type suffixes from strings.
 source: https://en.wikipedia.org/wiki/Types_of_business_entity
 
 {<img src="https://codeship.com/projects/904f97a0-7d55-0133-1844-629a1689a2f6/status?branch=master" alt="Status?branch=master" />}[https://codeship.com/projects/120166]
+{<img src="https://badge.fury.io/rb/fluffix.svg" alt="Gem Version" />}[https://badge.fury.io/rb/fluffix]
 
 == Contributing to Fluffix
  
