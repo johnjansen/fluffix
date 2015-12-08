@@ -45,4 +45,4 @@ task :default => :spec
 require 'yard'
 YARD::Rake::YardocTask.new
 
-require_relative 'lib/tasks/get'
+require 'tasks/get'
