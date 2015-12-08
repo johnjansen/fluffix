@@ -8,17 +8,16 @@ source: https://en.wikipedia.org/wiki/Types_of_business_entity
 
 == Usage (in 5 seconds or less)
 
-##
-#Fluffix::US.cleanse("Prototype Corp.") => "Prototype"
-#Fluffix::US.cleanse("Prototype Corporation") => "Prototype"
-#Fluffix::US.cleanse("Prototype Inc") => "Prototype"
-#Fluffix::US.cleanse("Prototype Inc.") => "Prototype"
-#Fluffix::US.cleanse("Prototype Incorporated") => "Prototype"
-#...
-#Fluffix::US.cleanse("Prototype professional association") => "Prototype"
-#...
-#Fluffix::US.cleanse("Prototype l3c") => "Prototype"
-#...
+ Fluffix::US.cleanse("Prototype Corp.") => "Prototype"
+ Fluffix::US.cleanse("Prototype Corporation") => "Prototype"
+ Fluffix::US.cleanse("Prototype Inc") => "Prototype"
+ Fluffix::US.cleanse("Prototype Inc.") => "Prototype"
+ Fluffix::US.cleanse("Prototype Incorporated") => "Prototype"
+ ...
+ Fluffix::US.cleanse("Prototype professional association") => "Prototype"
+ ...
+ Fluffix::US.cleanse("Prototype l3c") => "Prototype"
+ ...
 
 == Contributing to Fluffix
  
