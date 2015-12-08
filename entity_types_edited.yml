@@ -5,11 +5,10 @@
     - s\.?c
     - inc(orporated)?
     - bank(ing|ers)?
-    - ((and|&|\+) )?co(mpany)?
+    - ((and|&|\+|trust) )?co(mpany)?
     - (limited|ltd)( liability (co(mpany)?)?)?
     - deposit
     - credit union
-    - trust( co(mpany)?)?
     - societa per azioni
     - s\.?p\.?a
     - (pro\.?(fessional)? )?assoc(iation)?
@@ -24,7 +23,7 @@
     - college
     - university
     - chartered
-    - p?\.?l?\.?lc
+    - (p|l)?\.?(l\.?){0,2}c
     - (l|1)\.?3\.?c
     - league
     - committee
